@@ -1,11 +1,33 @@
 # Programming for Non-Programmers
 
-# DAILY STRUCTURE
+# Programming for Non-Programmers
+
+## Day 1
+### Introduction
+- The internet and World Wide Web
+- Languages & Frameworks
+- Terms and Tools
+- Setting up your personal workspace
+
+### Front End Topics
+- HTML
+- CSS
+- JavaScript
+
+## Day 2
+### Back-End Topics
+- What is the back-end?
+- APIs
+- Databases
+- SQL vs. NoSQL
+- Building an application that takes in user input
+
+//////////////////////////////////////////////
 
 ### Overview
 
 1. Intros & Expectation Setting
-  - Schedule 
+  - Schedule
   - What you are we going to learn and make
   - Introductions
     - Your name and where you are in the world
@@ -27,7 +49,7 @@
     - How languages evolve - HTML/CSS have had many different versions, each new one adds more features. HTML5 in particular adds many new tags that ake it easier for folks who are vision impaired to use your site; CSS3 adds more transitions & POWERRRR talk about specifics later.
     - JavaScript - Interactivity and reacting to user input
         - JavaScript is a programming language - this is different from a markup language like HTML/CSS. It performs logic, executes commands.
-        - Uses - Twitter loading new tweets every 45 seconds, the like button on Facebook changing to blue when you click it, 
+        - Uses - Twitter loading new tweets every 45 seconds, the like button on Facebook changing to blue when you click it,
 
 ### Deep Dive & Codealong
 
@@ -37,10 +59,10 @@
     - Head, body, tags, classes, ids
     - Metadata - photo comparison
     - Additional data - you can look into this to figure out how to increase your page's visibility in search engines
-    - Inline vs. Block display - one 
+    - Inline vs. Block display - one
 
 1. CSS
-    - Change: 
+    - Change:
         - font family
         - text-align
         - background color
@@ -83,5 +105,5 @@ http://www.webdesigndev.com/16-gorgeous-web-safe-fonts-to-use-with-css/
  - Setting up a Schema
  - Queries
  - Using a database in your project
- 
+
 ### Create Your First Project
