@@ -4,11 +4,13 @@ When we are developing applications, developers use their terminal to navigate t
 
 To access your terminal, do the following:
 
-For Macs:
+**For Macs:**
+
 `command` + `space`
 type `Terminal`
 
-For PCs:
+**For PCs:**
+
 `ctrl` + `alt` + `t`
 
 When using the terminal, here are shortcuts to help us navigate, create, delete, etc.
@@ -25,3 +27,10 @@ When using the terminal, here are shortcuts to help us navigate, create, delete,
 | `rm -rf FOLDER` | Permanently deletes a folder and everything inside of it. **Use with caution.** |
 | `open FILENAME` | Open a file with the default program. |
 | `open .` | Opens the current directory in Finder. | 
+
+Alternative names for the terminal:
+
+- Console
+- Shell
+- Command Line
+- Command Prompt
