@@ -11,8 +11,6 @@ Programming for Non-Programmers is a workshop series at General Assembly designe
 - We will take 10 minute breaks throughout the day to stretch, get drinks, etc. Please **be prompt** in returning at the agreed upon time.
 
 ## Thursday, 8 September 
-_10 am – 5 pm EDT_
-
 ### Day 1
 #### [Introduction](indtroduction.md)
 - The Internet and World Wide Web
@@ -27,8 +25,6 @@ _10 am – 5 pm EDT_
 - JavaScript
 
 ##Friday, 9 September 
-_10 am – 5 pm EDT_
-
 ### Day 2
 #### [Back-End Topics](back_end.md)
 - What is the back-end?
