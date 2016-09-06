@@ -31,4 +31,4 @@ Programming for Non-Programmers is a workshop series at General Assembly designe
 - APIs
 - Databases
 - SQL vs. NoSQL
-- Building an application that takes in user input
+- Forms and user input
