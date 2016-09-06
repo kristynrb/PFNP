@@ -4,41 +4,46 @@
 
 # Terms and Tools
 
-## Command Line
 
-When we are developing applications, developers use their terminal to navigate through their folders and files. It is an interface in which you can type and execute text based commands.
 
-To access your terminal, do the following:
 
-**For Macs:**
 
-`command` + `space`
-type `Terminal`
 
-**For PCs:**
+1. HTML, CSS, & JavaScript - What are these? What is the purpose of each? Nouns/adjectives/verbs
+- Framing - why do we care? What makes a good user experience? Make it easy for people to use your page - they should know what's expected of them right away. Should be easy for them to get the information they need or perform the action they need to take right away. We accomplish these things using HTML, CSS, and JAVASCRIPT WOW
+    - HTML - Structure of a web page
+    - CSS - Appearance of a web page - aesthetics, like text size/background color, and layout - margins, padding, border, etc.
+        - Box model - quickly draw out how elements are laid out on the page, note that giving your elements padding makes them easier to use
+    - How languages evolve - HTML/CSS have had many different versions, each new one adds more features. HTML5 in particular adds many new tags that ake it easier for folks who are vision impaired to use your site; CSS3 adds more transitions & POWERRRR talk about specifics later.
+    - JavaScript - Interactivity and reacting to user input
+        - JavaScript is a programming language - this is different from a markup language like HTML/CSS. It performs logic, executes commands.
+        - Uses - Twitter loading new tweets every 45 seconds, the like button on Facebook changing to blue when you click it,
 
-`ctrl` + `alt` + `t`
+### Deep Dive & Codealong
 
-When using the terminal, here are shortcuts to help us navigate, create, delete, etc.
+1. Anatomy of/example of HTML document
+    - CodePen! Take 2 minutes to look at the pen: http://codepen.io/annarankin/pen/XXYpxd
+    - HTML id made uppah tags. Closin' and endin'. What is an element? tags & content
+    - Head, body, tags, classes, ids
+    - Metadata - photo comparison
+    - Additional data - you can look into this to figure out how to increase your page's visibility in search engines
+    - Inline vs. Block display - one
 
-| Command | Meaning |
-|:-------:|:-------:|
-| `pwd` | Print working directory. This tells you what folder you're currently located in. |
-| `cd PATH/TO/FOLDER` | Change directory. This allows you to change the directory you're currently working in. |
-| `cd ..` | Move up and out of the folder you're in one level. |
-| `ls` | List. Lists all files & folders in your current working directory. |
-| `mkdir FOLDERNAME` | Make directory. Creates a new folder with whatever name you choose. |
-| `touch FILENAME` | Creates a new file with whatever name you choose. |
-| `rm FILENAME` | Remove. Permanently deletes a file. |
-| `rm -rf FOLDER` | Permanently deletes a folder and everything inside of it. **Use with caution.** |
-| `open FILENAME` | Open a file with the default program. |
-| `open .` | Opens the current directory in Finder. |
+1. CSS
+    - Change:
+        - font family
+        - text-align
+        - background color
 
-Alternative names for the terminal:
+1. Codepen - HTML/CSS practice
 
-- Console
-- Shell
-- Command Line
-- Command Prompt
+1. What is a programming language?
 
-# Setting up your personal workspace
+1. What is JavaScript? Why do developers use it? What is it used for? Real-world examples.
+
+1. Basic programming - evaluation of expressions, if/else (conditional logic)
+- Build a calculator
+
+1. What is jQuery? Basic events
+- Like button
+
