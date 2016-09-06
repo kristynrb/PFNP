@@ -23,18 +23,18 @@ The basics of code:
 - Demo, read and update simple examples of code.
 
 **PART 2:** Introduction to Front End Web Development We will code a website from scratch together and learn the following along the way:
-HTML basics
-How to get set up on your own computer.
-Use the basic content tags (headings, images, links, paragraphs).
-Create different sections in your website (layout).
-CSS basics
-Basic styling properties and how to connect with HTML.
-Selectors and how the different sections of a site.
-You will also learn:
-How to upload a web page to a server using FTP.
-How to obtain a domain name.
-The difference between HTML5/CSS3 and HTML/CSS.
-The purpose of JavaScript and how it drives interactivity in your site.
+- HTML basics
+- How to get set up on your own computer.
+- Use the basic content tags (headings, images, links, paragraphs).
+- Create different sections in your website (layout).
+- CSS basics
+- Basic styling properties and how to connect with HTML.
+- Selectors and how the different sections of a site.
+- You will also learn:
+- How to upload a web page to a server using FTP.
+- How to obtain a domain name.
+- The difference between HTML5/CSS3 and HTML/CSS.
+- The purpose of JavaScript and how it drives interactivity in your site.
 
 ##Friday, 9 September 
 _10 am – 5 pm EDT_
