@@ -1,6 +1,6 @@
 # PFNP
 
-About This Workshop Series
+**About This Workshop Series**
 
 Programming for Non-Programmers is workshop series at General Assembly designed to help non-programmers communicate more efficiently with developers or to help aspiring developers get started.
 
