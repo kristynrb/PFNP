@@ -27,8 +27,8 @@ Programming for Non-Programmers is a workshop series at General Assembly designe
 
 ##Friday, 9 September 
 ### Day 2
-#### [Back-End Topics](back_end.md)
-- What is the back-end?
+#### [Back End Topics](back_end.md)
+- What is the back end?
 - APIs
 - Databases
 - SQL vs. NoSQL
