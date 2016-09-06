@@ -12,6 +12,7 @@
     - What do you do when you're not taking this class?
     - Have you ever taken a class at GA / a class about coding / have you ever played around with code?
     - What do you hope to get out of this class / why did you decide to take this class?
+    - Are you using a Mac or a PC?
 
 1. Introduction to concepts & vocabulary - What does it mean to be a web developer?
   - Front end vs. back end, languages vs. frameworks & libraries
