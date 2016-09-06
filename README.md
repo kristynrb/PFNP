@@ -8,7 +8,7 @@ Programming for Non-Programmers is workshop series at General Assembly designed 
 
 - Each day **begins at 10:00 am EDT** and will end at 5:00 pm EDT.
 - We will take a lunch break from 1 - 2 pm EDT.
-- We will take 10 minute breaks throughout the day to stretch, get drinks, etc. Please **be prompt** in returning on the agreed upon time.
+- We will take 10 minute breaks throughout the day to stretch, get drinks, etc. Please **be prompt** in returning at the agreed upon time.
 
 ## Thursday, 8 September 
 _10 am – 5 pm EDT_
