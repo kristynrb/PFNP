@@ -1,7 +1,5 @@
 # Programming for Non-Programmers
 
-# Programming for Non-Programmers
-
 ## Day 1
 ### Introduction
 - The internet and World Wide Web
