@@ -13,15 +13,15 @@ Programming for Non-Programmers is a workshop series at General Assembly designe
 ## Thursday, 8 September 
 _10 am – 5 pm EDT_
 
-## Day 1
-### [Introduction](indtroduction.md)
+### Day 1
+#### [Introduction](indtroduction.md)
 - The Internet and World Wide Web
 - Application Development Overview
 - Languages & Frameworks
 - Terms and Tools
 - Setting up your personal workspace
 
-### [Front End Topics](front_end.md)
+#### [Front End Topics](front_end.md)
 - HTML
 - CSS
 - JavaScript
@@ -29,8 +29,8 @@ _10 am – 5 pm EDT_
 ##Friday, 9 September 
 _10 am – 5 pm EDT_
 
-## Day 2
-### [Back-End Topics](back_end.md)
+### Day 2
+#### [Back-End Topics](back_end.md)
 - What is the back-end?
 - APIs
 - Databases
