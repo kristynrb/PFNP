@@ -20,6 +20,7 @@ Programming for Non-Programmers is a workshop series at General Assembly designe
 - Setting up your personal workspace
 
 #### [Front End Topics](front_end.md)
+- What is the front end?
 - HTML
 - CSS
 - JavaScript
