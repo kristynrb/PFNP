@@ -1,23 +1,16 @@
-# The internet and World Wide Web
+# HTML
+Structure of a web page
 
-# Languages & Frameworks
+# CSS
+Cascading Style Sheet
+- Appearance of a web page - aesthetics, like text size/background color, and layout - margins, padding, border, etc.
 
-# Terms and Tools
+- Box model - quickly draw out how elements are laid out on the page, note that giving your elements padding makes them easier to use
 
-
-
-
-
-
-1. HTML, CSS, & JavaScript - What are these? What is the purpose of each? Nouns/adjectives/verbs
-- Framing - why do we care? What makes a good user experience? Make it easy for people to use your page - they should know what's expected of them right away. Should be easy for them to get the information they need or perform the action they need to take right away. We accomplish these things using HTML, CSS, and JAVASCRIPT WOW
-    - HTML - Structure of a web page
-    - CSS - Appearance of a web page - aesthetics, like text size/background color, and layout - margins, padding, border, etc.
-        - Box model - quickly draw out how elements are laid out on the page, note that giving your elements padding makes them easier to use
-    - How languages evolve - HTML/CSS have had many different versions, each new one adds more features. HTML5 in particular adds many new tags that ake it easier for folks who are vision impaired to use your site; CSS3 adds more transitions & POWERRRR talk about specifics later.
-    - JavaScript - Interactivity and reacting to user input
-        - JavaScript is a programming language - this is different from a markup language like HTML/CSS. It performs logic, executes commands.
-        - Uses - Twitter loading new tweets every 45 seconds, the like button on Facebook changing to blue when you click it,
+    - How languages evolve - HTML/CSS have had many different versions, each new one adds more features. HTML5 in particular adds many new tags that make it easier for folks who are vision impaired to use your site (screen readers). It also makes it easier for developers to read code (if you see a tag that says <video> you're going to understand what is inside these tags than if it's given the general tag of <div>; CSS3 adds more transitions & options, but we will talk about specifics later.
+    
+# JavaScript
+A programming language - this is different from a markup language like HTML/CSS. It performs logic, executes commands; creates the interactivity of the page by reacting to user input (think clicking buttons, scrolling, etc.).
 
 ### Deep Dive & Codealong
 
@@ -44,6 +37,5 @@
 1. Basic programming - evaluation of expressions, if/else (conditional logic)
 - Build a calculator
 
-1. What is jQuery? Basic events
-- Like button
+OPERATORS
 
