@@ -3,6 +3,7 @@
 # Resources
 
 ### HTML
+[MDN HTML Tags](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 [W3Schools - HTML](http://www.w3schools.com/html/default.asp) :
 Their HTML documentation is pretty decent.
