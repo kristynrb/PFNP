@@ -17,6 +17,17 @@
   - Overview via slides
   
 #The internet and World Wide Web
+Key Terms and Ideas
+
+The Internet is an **inter**connected **net**work of computers that can send messages back and forth from one computer to the other.
+
+The World-Wide Web is a service which is run over the internet backbone, much like how Netflix's DVD business is a service that's built on top of the US postal service. A service is an interaction between two parties: a client, which makes requests, and a server, which delivers on those requests.
+
+In the case of the web, the client (usually a program called a web browser) requests documents called web pages, and then tries to display (or render) those pages for the user to see.
+
+These web pages are served up by a web application, a program that runs indefinitely and listens for requests coming in over the web. In order to create these pages, the application uses a tool for storing large amounts of data, called a database, to read and write data related to the application's job.
+
+In general, the part of interacting with a web application that happens in the browser is referred to as the front-end, while the rest of the app is commonly referred to as the back-end.
 
 #Languages & Frameworks
 
