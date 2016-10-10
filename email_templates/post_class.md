@@ -1,3 +1,5 @@
+### Subject: PFNP Follow-Up Email [General Assembly]
+
 Hi everyone,
 
 It was wonderful getting to know you all last week. I wanted to pass along some resources including the recordings of the class, more digital copies of the slides, and some links to resources. If you have any questions, feel free to email me!
