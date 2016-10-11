@@ -32,18 +32,6 @@
       <button onclick="myFunction()">Submit</button>
     </form>
 
-    <script>
-      function myFunction() {
-        console.log("you're inside myFunction");
-        var formData = document.getElementById("myForm").elements;
-        console.log(formData);
-        var name = formData.elements["name"].value;
-        console.log(name);
-        getElementById("demo").innerHTML = name;
-        // document.getElementById("demo").innerHTML = "Found " + x + " elements in the form.";
-      }
-    </script>
-
     <div id="demo" style="height:30px;"></div>
 
     <button><a href="mailto:kristyn.bryan@generalassemb.ly">Click me to send an email</a></button>
