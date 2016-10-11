@@ -1,0 +1,51 @@
+/*PFNP Sept 19 & 20th*/
+body {
+  margin: 0px 10%;
+  border-top: 10px solid black;
+  border-bottom: 10px solid black;
+  background-color: #F7F7F7;
+}
+nav{
+  background-color: white;
+  height: 60px;
+  /*display: block;*/
+}
+ul{
+  margin: 0px;
+}
+h1{
+  text-align: center;
+  font-family: Arial;
+  text-transform: uppercase;
+}
+#kristyn {
+  border: 1px solid black;
+  float: right;
+}
+hr{
+  width: 70%;
+}
+
+.nav {
+  list-style: none;
+  text-align: center;
+}
+nav li {
+  display: inline-block;
+  padding: 20px;
+}
+nav a {
+  text-decoration: none;
+}
+nav a:hover{
+  border-bottom: 1px solid black;
+}
+form {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 50px;
+}
+#confirmation_msg{
+  height: 100px;
+  background-color: lightblue;
+}

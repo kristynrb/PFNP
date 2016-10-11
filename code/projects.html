@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Kristyn's Resume - Projects</title>
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+  </head>
+  <body>
+    <nav>
+      <ul id="nav-ul">
+        <li><a href="https://www.linkedin.com/in/kristynbryan" target="_blank">LinkedIn</a></li>
+        <li><a href="index.html">Home</a></li>
+        <li>Projects</li>
+      </ul>
+    </nav>
+
+    <table>
+      <tr>
+        <th>First Project</th>
+        <th>Second Project</th>
+        <th>Third Project</th>
+      </tr>
+      <tr>
+        <td>This is the description of my first project</td>
+        <td>This is the description of my second project</td>
+        <td>This is the description of my third project</td>
+      </tr>
+    </table>
+
+    <form id="myForm">
+      First name: <input type="text" name="name">
+      <button onclick="myFunction()">Submit</button>
+    </form>
+
+    <script>
+      function myFunction() {
+        console.log("you're inside myFunction");
+        var formData = document.getElementById("myForm").elements;
+        console.log(formData);
+        var name = formData.elements["name"].value;
+        console.log(name);
+        getElementById("demo").innerHTML = name;
+        // document.getElementById("demo").innerHTML = "Found " + x + " elements in the form.";
+      }
+    </script>
+
+    <div id="demo" style="height:30px;"></div>
+
+    <button><a href="mailto:kristyn.bryan@generalassemb.ly">Click me to send an email</a></button>
+  </body>
+</html>

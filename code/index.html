@@ -1,0 +1,63 @@
+<!-- PFNP Sept 19 & 20th -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Kristyn's Resume</title>
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+  </head>
+
+  <body>
+    <nav class="nav">
+      <ul class="nav">
+        <li><a href="https://www.linkedin.com/in/kristynbryan" target="_blank">LinkedIn</a></li>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="projects.html">Projects</a></li>
+      </ul>
+    </nav>
+    <h1 id="name">Kristyn Bryan</h1>
+    <hr>
+    <img src="kb.jpg" alt="Picture of Kristyn Bryan" title="Kristyn Bryan" id="kristyn">
+
+    <button id="remove">REMOVE my picture</button>
+    <button id="add">ADD my picture</button>
+
+    <h3>Biography</h3>
+    <p>This is my resume. I am currently an instructional assiciate at general assembly. I am teaching PFNP at the very moment.</p>
+    <hr>
+    <ul>
+      <li>Instructional Associate</li>
+      <li>QA Tester</li>
+      <li>Teacher</li>
+    </ul>
+    <a href="https://www.linkedin.com/in/kristynbryan" target="_blank">LinkedIn</a>
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/J---aiyznGQ" frameborder="0" allowfullscreen></iframe>
+
+    <button><a href="mailto:kristyn.bryan@generalassemb.ly">Click me to send an email</a></button>
+
+
+    <form id="mailing_list">
+      <label>First Name</label><br>
+      <input name="first_name" type="text"><br>
+
+      <label>Email address</label><br>
+      <input name="email_address" type="text"><br>
+
+      <input type="checkbox" name="mail" value="true">Do you want to be on our mailing list?<br>
+
+      <label>How do we know eachother?</label><br>
+      <select name="known">
+        <option value="friend">We're friends</option>
+        <option value="recruiter">I'm a recruiter</option>
+        <option value="unknown">I don't know you yet</option>
+      </select> <br>
+    </form>
+
+    <button onclick="infoSubmit()">Submit</button>
+
+    <div id="confirmation_msg"></div>
+
+  </body>
+  <script src="app.js"></script>
+</html>
