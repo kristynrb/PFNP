@@ -35,4 +35,4 @@ Programming for Non-Programmers is a workshop series at General Assembly designe
 ### Notes for instructors
 - The slides that were used for this class can be seen [here](http://slides.com/kristynbryan/programming-for-non-programmers-1-1-2-3)
 - You can download a local version of these slides and update them by cloning the "slides" folder in this repo and changing the html. You can view the slides by opening the html file in your browser.
-- A sample code of the website that is created during this class can be found in the "code" folder in this repo.
+- An example of the code (for the personal website project) that will be written during class can be found in the "code" folder in this repo.
